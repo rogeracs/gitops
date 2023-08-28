@@ -1,1 +1,2 @@
-"Mi frase favorita es: Vive el momento"
+"Mi frase favorita es: Vive el momento x2"
+Segunda Frase: Nada es para siempre
